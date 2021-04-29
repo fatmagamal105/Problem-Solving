@@ -1,0 +1,13 @@
+C:\Users\fatma\source\repos\OOP06\bin\Debug\netcoreapp3.1\OOP06.exe
+C:\Users\fatma\source\repos\OOP06\bin\Debug\netcoreapp3.1\OOP06.deps.json
+C:\Users\fatma\source\repos\OOP06\bin\Debug\netcoreapp3.1\OOP06.runtimeconfig.json
+C:\Users\fatma\source\repos\OOP06\bin\Debug\netcoreapp3.1\OOP06.runtimeconfig.dev.json
+C:\Users\fatma\source\repos\OOP06\bin\Debug\netcoreapp3.1\OOP06.dll
+C:\Users\fatma\source\repos\OOP06\bin\Debug\netcoreapp3.1\OOP06.pdb
+C:\Users\fatma\source\repos\OOP06\obj\Debug\netcoreapp3.1\OOP06.csprojAssemblyReference.cache
+C:\Users\fatma\source\repos\OOP06\obj\Debug\netcoreapp3.1\OOP06.AssemblyInfoInputs.cache
+C:\Users\fatma\source\repos\OOP06\obj\Debug\netcoreapp3.1\OOP06.AssemblyInfo.cs
+C:\Users\fatma\source\repos\OOP06\obj\Debug\netcoreapp3.1\OOP06.csproj.CoreCompileInputs.cache
+C:\Users\fatma\source\repos\OOP06\obj\Debug\netcoreapp3.1\OOP06.dll
+C:\Users\fatma\source\repos\OOP06\obj\Debug\netcoreapp3.1\OOP06.pdb
+C:\Users\fatma\source\repos\OOP06\obj\Debug\netcoreapp3.1\OOP06.genruntimeconfig.cache
